@@ -7,12 +7,12 @@ This was a school group project, where we were tasked to create a two page websi
 # Roles
  I was resposible for designing the UI/UX of the website. 
  
- I was tasked with using html and CSS to develop the first three sections of the homepage. 
+ I was tasked with using html and CSS to develop the the homepage. 
  
  I was tasked with using html and css to develop the the middle section of the portal page.
 
 # Tools
-I made use of adobe xd to design the UI/UX of the site... check out some of my other designs on [behance](https://www.behance.net/Erinle__).
+I made use of adobe xd to design the UI/UX of the site... check out this project, and some of my other projects on [behance](https://www.behance.net/Erinle__).
 
 I made use of HTML developing the structure of the site.
 
