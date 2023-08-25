@@ -1,0 +1,152 @@
+body {
+    background-color: #1F2633;
+    color : white;
+    font-style: Segoe UI;
+}
+
+#firstTable {
+    width: 70%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin: auto;
+}
+
+#wdintable{
+    width: 60%;
+}
+
+#firstImg{
+    width: 137px;
+    height: 127px;
+    opacity: 1;
+    float: right;
+}
+
+#haveFun{
+    top: 31px;
+    left: 860px;
+    width: 400px;
+    height: 108px;
+/* UI Properties */
+    text-align: center;
+    font: normal normal bold 41px/54px Segoe UI;
+    letter-spacing: 0px;
+    color: #DDE3A0;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+#SndNav{
+    background-color: #D7DCA1;
+    height: 50px;
+    padding-left: 300px;
+    padding-right: auto;
+}
+
+ul{
+    list-style-type: none;
+    padding : 0;
+    margin-left : 20px;
+    margin-bottom: 20px;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display : block;
+    text-align : center;
+    padding : 10px 50px;
+    text-decoration : none;
+    color: black;
+    font: normal normal bold 24px/32px Segoe UI;
+}
+
+#body{
+    width: 80%;
+    margin: auto;
+}
+
+#info {
+    width: 100%;
+    margin: auto;
+}
+
+#info .infodiv{
+    text-align: left;
+    font: normal normal bold 32px/25px Segoe UI;
+    letter-spacing: 0px;
+    color: #121515;
+    opacity: 1;
+    padding-left: 100px;
+    padding-bottom: 0px;
+    padding-top: 30px;
+}
+
+#info p{
+    text-align: left;
+    font: normal normal normal 23px/31px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+    width: 65%;
+    padding-bottom: 20px;
+    padding-left: 100px;
+}
+
+#info div{
+    background: #C9D0B0 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+
+#linkheader{
+    text-align: left;
+    font: normal normal bold 36px/48px Segoe UI;
+    letter-spacing: 0px;
+    color: #DED2D2;
+    opacity: 1;
+    margin-top: 100px;
+}
+
+#links{
+    height: 621px;
+    background: #1D2E4EC7 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-bottom: 200px;
+    padding-left: 120px;
+}
+
+#links div{
+    width: 255px;
+    height: 238px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    float: left;
+    font: normal normal bold 30px/40px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+#footer{
+    width: 100%;
+    background-color: #74BE78;
+    text-align: center;
+    top: 4886px;
+    left: 0px;
+    height: 528px;
+    background: transparent url('Assets/Group 28.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 200px;
+}
