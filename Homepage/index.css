@@ -1,0 +1,340 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1F2633;
+    color : white;
+    font-style: Segoe UI;
+}
+
+#SndNav{
+    background-color: #D7DCA1;
+    height: 80px;
+    padding-left: 220px;
+    padding-top: 13px;
+    margin-bottom: 0;
+}
+
+#firstNav{
+    width: 100%;
+    height: 50px;
+    background: #D7DCA1 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: right;
+    margin-top: 0;
+    padding-right: 280px;
+    padding-top: 15px;
+    
+}
+
+
+#vrline {
+    border: 1px solid black;
+    height: 100px;
+}
+
+ .button {
+    margin : 10px;
+    background: transparent;
+    border: none;
+    color: black;
+}
+
+
+#firstImg{
+    width: 137px;
+    height: 127px;
+    opacity: 1;
+    float: right;
+}
+
+#haveFun{
+    top: 163px;
+    left: 898px;
+    width: 274px;
+    height: 48px;
+/* UI Properties */
+    text-align: center;
+    text-decoration: underline;
+    font: normal normal normal 18px/24px Segoe UI;
+    letter-spacing: 0px;
+    color: #DDE3A0;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+ul{
+    list-style-type: none;
+    padding : 0;
+    margin : 0;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display : block;
+    text-align : center;
+    padding : 14px 35px;
+    text-decoration : none;
+    color: black;
+    font: normal normal bold 21px/28px Segoe UI;
+}
+
+#firstTable {
+    width: 100%;
+}
+
+#firstTable {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#firstTable td {
+    width: 50%;
+}
+
+#slideshow {
+    background-image: url('Assets/Theschool.jpg');
+    height : 796px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    color:  #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+
+#backblur{
+    top: 329px;
+    left: 0px;
+    width: 1920px;
+    height: 796px;
+    /* UI Properties */
+    background: #362F2F6B 0% 0% no-repeat padding-box;
+    opacity: 1;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
+
+
+
+#SndTable{
+    position: absolute;
+    right: 6px;
+    font: normal normal bold 34px/46px Segoe UI;
+    padding-right: 150px;
+    padding-top: 170px;
+}
+
+.goleft{
+    width: 791px;
+    height: 138px;
+    text-align: left;
+    font: normal normal bold 34px/46px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#SndTable button {
+    margin: 20px;
+    background: transparent;
+    border: none;    
+}
+
+#imgalign{
+    padding-left: 50px;
+}
+
+#TrdTable{
+    margin-bottom: 150px;
+}
+
+#TrdTable hr{
+    width: 50%;
+    margin: 0;
+}
+
+.welcome{
+    width: 257px;
+    height: 43px;
+    text-align: left;
+    font: normal normal bold 32px/43px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+#welcomesection{
+    padding-left: 250px;
+}
+
+
+.welcometext{
+    width: 805px;
+    height: 155px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 19px/26px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.aquaman{
+    width: 392px;
+    height: 358px;
+    /* UI Properties */
+    opacity: 1;
+    padding-right: 250px;
+}
+
+#Fth{
+    color: black;
+    background-color: #EEF2C5;
+    width: 1200px;
+    margin-top: 100px;
+    margin-left: 320px;
+    margin-bottom: 100px;
+    height: 700px;
+}
+
+div a {
+    padding: 100px;
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 50px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  
+#info{
+    text-align: center;
+    font: normal normal bold 32px/43px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#LDmore, #INmore {
+    margin: 20px;
+}
+
+#Fth hr {
+    width: 70%;
+    margin : auto;
+}
+
+#study{
+    text-align: center;
+    font: normal normal bold 32px/43px Segoe UI;
+}
+
+#pGallery div {
+    width: 391px;
+    height: 391px;
+    float : left;
+    margin-left: 50px;
+}
+
+#pGallery {
+    width: 90%;
+    margin: auto;
+    padding-left: 170px;
+    padding-top: 50px;
+}
+
+#img1{
+    top: 3150px;
+    left: 294px;
+    width: 357px;
+    height: 359px;
+    background: transparent url('Assets/Group 29.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+#img2 {
+    top: 3152px;
+    left: 766px;
+    width: 357px;
+    height: 357px;
+    background: transparent url('Assets/Group 30.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#img3{
+    top: 3152px;
+    left: 1238px;
+    width: 357px;
+    height: 357px;
+    background: transparent url('Assets/Group 31.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+#video{
+    width: 100%;
+    margin-top: 150px;
+}
+
+#pGallery2 img{
+    width: 335px;
+    height: 335px;
+}
+
+#pGallery2 div{
+    float: left;
+    margin-left: 40px;
+}
+
+#pGallery2 {
+    width: 75%;
+    margin: auto;
+    margin-top : 150px;
+    text-align: center;
+    font: bold Segoe UI;
+    padding-left: 150px;
+}
+
+#footer{
+    width: 100%;
+    background-color: #74BE78;
+    text-align: center;
+    top: 4886px;
+    left: 0px;
+    height: 528px;
+    background: transparent url('Assets/Group 28.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 700px;
+}
+
+#picture{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: white;
+}
